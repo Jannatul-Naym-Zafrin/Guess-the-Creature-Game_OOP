@@ -1,4 +1,4 @@
-Guess the Creature
+#Guess the Creature
 
 CSE 1116 – Object Oriented Programming Laboratory Project
 
@@ -23,3 +23,4 @@ Simple and user-friendly GUI
 Logical question-based prediction system
 
 Visual display of the final creature
+
